@@ -1,0 +1,3 @@
+F-1: Pull-Request, Normal Merge
+F-2: Pull-Request, Squash and Merge
+F-3: Pull-Request, ?
