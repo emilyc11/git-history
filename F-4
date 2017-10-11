@@ -1,1 +1,1 @@
-For feature branch F-4, it will perform a rebase before pushing
+For feature branch F-4, it will rebase to develop before committing any new changes
