@@ -1,0 +1,8 @@
+F-1: Pull-Request, Normal Merge
+F-2: Pull-Request, Squash and Merge
+F-3: Pull-Request, Rebase and Merge
+F-4: Rebase to develop before any commits
+F-5: Rebase to develop after commit but before push
+F-6: Rebase to develop after push and pull-request --> Not a good idea
+F-7: Try out "git rebase --interactive"
+
